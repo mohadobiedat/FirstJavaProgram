@@ -18,3 +18,4 @@ new Sequence().go();
 void go() { System.out.print("g "); }
 static { System.out.print("x "); }
 } 
+// nice job
